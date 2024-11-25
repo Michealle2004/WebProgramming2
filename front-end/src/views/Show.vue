@@ -16,7 +16,7 @@
       </div>
       <div class="ui labeled input fluid">
         <div class="ui label">
-          <i class="vietnam kingdom flag"></i> Vietnamese
+          <i class="vietnam flag"></i> Vietnamese
         </div>
         <input type="text" readonly  :value="word.vietnamese"/>
       </div>
